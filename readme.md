@@ -4,20 +4,20 @@
 
 Robot Educativo Velocista - Seguidor de linea
 
-![demo](/images/demo.gif)
-
+![demo](./images/demo.gif)
 
 
 ## Autores: 
 
 Marcelo Acevedo, Elias Reuter.
-![Diseño](/images/diseno.jpeg)
+
 
 
 ## Robot: Velocista v0.2
+![Prototipo](./images/prototipo.jpeg)
+![Diseño](./images/diseno.jpeg)
 
-![Prototipo](/images/prototipo.jpeg)
-  Componentes:
+## Componentes
   - Motor: amarillo 6v.
   - Placa control Arduino UNO (actual Mega para pruebas).
   - Sensor: TRCT5000 plava azul - sensor perpendicular.
