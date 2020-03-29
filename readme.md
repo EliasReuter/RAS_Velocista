@@ -4,6 +4,11 @@
 
 Robot Educativo Velocista - Seguidor de linea
 
+![Diseño](/images/diseno.jpeg)
+![Prototipo](/images/prototipo.jpeg)
+![demo](/images/demo.gif)
+
+
 ## Autores: 
 
 Marcelo Acevedo, Elias Reuter.
@@ -15,8 +20,10 @@ Marcelo Acevedo, Elias Reuter.
   - Placa control Arduino UNO (actual Mega para pruebas).
   - Sensor: TRCT5000 plava azul - sensor perpendicular.
 
+## Videos didacticos
+
+-> AGREGAR LINKS
 
 ## Videos didacticos
 
-<agregarlinks>
 
