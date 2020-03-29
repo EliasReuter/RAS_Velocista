@@ -47,12 +47,11 @@ void setup() {
 
 void loop() {
 
-  Avanzar();
+  //Avanzar();
+  //while(!EncontroLinea()){}
   
-  while(!EncontroLinea()){}
-  
-  //valorDer = DetectarLinea(analogRead(TCRTDer));
-  //valorIzq = DetectarLinea(analogRead(TCRTIzq));
+  valorDer = DetectarLinea(analogRead(TCRTDer));
+  valorIzq = DetectarLinea(analogRead(TCRTIzq));
 
   Serial.print("Dato der: ");
   Serial.print(valorIzq);
