@@ -15,7 +15,6 @@ Marcelo Acevedo, Elias Reuter.
 
 ## Robot: Velocista v0.2
 ![Prototipo](./images/prototipo.jpeg)
-![Diseño](./images/diseno.jpeg)
 
 ## Componentes
   - Motor: amarillo 6v.
