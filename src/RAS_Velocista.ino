@@ -14,6 +14,7 @@
   - Sensor: TRCT5000 plava azul - sensor perpendicular.
 
 */
+
 #include <Arduino.h>
 
 const byte  VelMAX  = 190;    //Velocidad maxima de robot
